@@ -36,7 +36,7 @@ setInterval(function(){
         else{
             flag=0;
             job = 0;
-            el = (el==3)? 0: el+1;
+            el = (el==6)? 0: el+1;
         }
     }
 
